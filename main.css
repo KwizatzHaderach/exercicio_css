@@ -98,9 +98,25 @@ section h2 {
 }
 
 #economy{
-    background-color:rgba(0, 255, 0, 0.1);
+    background-color:rgba(211, 207, 7, 0.1);
 }
 
 #economy .articles article a{
-    background-color: #009432;
+    background-color: #90cfa5;
+}
+
+#tecno {
+    background-color: rgb(175, 243, 243);
+}
+
+#tecno .articles article a{
+    background-color: rgb(30, 117, 218);
+}
+
+#politic {
+    background-color:darkgray;
+}
+
+#politic .articles article a{
+    background-color: rgb(112, 80, 68);
 }
